@@ -1,5 +1,16 @@
+Created by Robin Godwyll 
+Robot Lab Residency Summer 2019
+BURG Halle University of Art and Design 
+
+
 # Grasshopper-draw-with-mouse-input
 Lets the user draw with their mouse in the Rhino viewport and converts the mouse movement into lines and points.
+
+## How to use
+
+Install necessary Plugins (see below). 
+
+Download Handwriting 001.gh and drag into the Grasshopper Window
 
 ## Demo
 

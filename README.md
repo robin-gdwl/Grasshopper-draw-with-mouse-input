@@ -5,9 +5,6 @@ Lets the user draw with their mouse in the Rhino viewport and converts the mouse
 
 [![Handwriting 001 Demo](http://img.youtube.com/vi/W75_HroyJew/0.jpg)](http://www.youtube.com/watch?v=W75_HroyJew)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=W75_HroyJew" target= "_blank"><img src="http://img.youtube.com/vi/W75_HroyJew/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 ## Requirements:
 **Software**
 

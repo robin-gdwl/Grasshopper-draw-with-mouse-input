@@ -1,7 +1,5 @@
-### Created by Robin Godwyll 
-
-Robot Lab Residency Summer 2019
-
+### Created by Robin Godwyll   
+Robot Lab Residency Summer 2019  
 BURG Halle University of Art and Design 
 
 
@@ -10,8 +8,7 @@ Lets the user draw with their mouse in the Rhino viewport and converts the mouse
 
 ## How to use
 
-Install necessary Plugins (see below). 
-
+Install necessary Plugins (see below).   
 Download Handwriting 001.gh and drag into the Grasshopper Window
 
 ## Demo
@@ -23,15 +20,13 @@ https://youtu.be/W75_HroyJew
 ## Requirements:
 **Software**
 
-Rhino 6 (using Rhino 5 will require some rewiring, use the canvas capture as a guide)
-
-Grasshopper 1.0.0007
+- Rhino 6 (using Rhino 5 will require some rewiring, use the canvas capture as a guide)
+- Grasshopper 1.0.0007
 
 **Plugins:**
 
-[Interactool](https://www.food4rhino.com/app/interactool) (required)
-
-[Metahopper](https://www.food4rhino.com/app/metahopper)(optional)
+- [Interactool](https://www.food4rhino.com/app/interactool) (required)
+- [Metahopper](https://www.food4rhino.com/app/metahopper)(optional)
 
 ## Overview
 

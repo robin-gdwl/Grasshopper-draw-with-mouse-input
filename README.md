@@ -15,3 +15,4 @@ Grasshopper 1.0.0007
 [Metahopper](https://www.food4rhino.com/app/metahopper)(optional)
 
 ![Definition overview](/Handwriting 001_canvas capture01.png)
+Format: ![Grasshopper mouse Handwriting 001 overview](https://github.com/boundlessmaking/Grasshopper-draw-with-mouse-input/blob/master/Handwriting%20001_canvas%20capture01.png?raw=true)

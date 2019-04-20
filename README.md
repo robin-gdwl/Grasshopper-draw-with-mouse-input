@@ -25,8 +25,8 @@ https://youtu.be/W75_HroyJew
 
 **Plugins:**
 
-- [Interactool](https://www.food4rhino.com/app/interactool) (required)
-- [Metahopper](https://www.food4rhino.com/app/metahopper)(optional)
+- [**Interactool**](https://www.food4rhino.com/app/interactool) (required - handles the mouse tracking)
+- [Metahopper](https://www.food4rhino.com/app/metahopper)(optional - only creates the sketch preview on the gh canvas)
 
 ## Overview
 

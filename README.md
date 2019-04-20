@@ -36,6 +36,7 @@ https://youtu.be/W75_HroyJew
 ## Wishlist
 
 - [ ] Make draw speed realtime
+- [ ] Fix first-point-bug (first and second point are not connected)
 - [ ] Increase the amount of points added per movement
 - [ ] Test with touchscreen monitor
 - [ ] Implement better curve interpolation 

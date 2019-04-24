@@ -15,7 +15,7 @@ https://youtu.be/W75_HroyJew
 ## How to use
 
 Install necessary Plugins (see below).   
-Download the file GH_Draw-with-mouse-input v_X.X.X.gh and drag into the Grasshopper Window
+Download the file `**GH_Draw-with-mouse-input v_X.X.X.gh**` and drag into the Grasshopper Window
 
 ## Requirements:
 **Software**

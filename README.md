@@ -15,7 +15,7 @@ https://youtu.be/W75_HroyJew
 ## How to use
 
 Install necessary Plugins (see below).   
-Download Handwriting 001.gh and drag into the Grasshopper Window
+Download the file GH_Draw-with-mouse-input v_X.X.X.gh and drag into the Grasshopper Window
 
 ## Requirements:
 **Software**
@@ -30,13 +30,13 @@ Download Handwriting 001.gh and drag into the Grasshopper Window
 
 ## Overview
 
-![Grasshopper mouse Handwriting 001 overview](https://github.com/boundlessmaking/Grasshopper-draw-with-mouse-input/blob/master/Handwriting%20001_canvas%20capture01.png?raw=true)
+![Grasshopper mouse Handwriting 001 overview](https://github.com/boundlessmaking/Grasshopper-draw-with-mouse-input/blob/master/GH_Draw-with-mouse-input v_1.0.1_Canvas_alpha.png?raw=true)
 
 
 ## Wishlist
 
 - [ ] Make draw speed realtime
-- [ ] Fix first-point-bug (first and second point are not connected)
+- [x] Fix first-point-bug (first and second point are not connected)
 - [ ] Increase the amount of points added per movement
 - [ ] Test with touchscreen monitor
 - [ ] Implement better curve interpolation 

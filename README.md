@@ -30,7 +30,7 @@ Download the file GH_Draw-with-mouse-input v_X.X.X.gh and drag into the Grasshop
 
 ## Overview
 
-![Grasshopper mouse Handwriting 001 overview](https://github.com/boundlessmaking/Grasshopper-draw-with-mouse-input/blob/master/GH_Draw-with-mouse-input v_1.0.1_Canvas_alpha.png?raw=true)
+![Grasshopper mouse Handwriting 001 overview](https://raw.githubusercontent.com/boundlessmaking/Grasshopper-draw-with-mouse-input/master/GH_Draw-with-mouse-input%20v_1.0.1_Canvas_alpha.png)
 
 
 ## Wishlist

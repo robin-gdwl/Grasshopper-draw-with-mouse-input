@@ -10,7 +10,7 @@ After finishing this definition I found an easier one that does something very s
 
 ## Demo
 
-<img src="/Images/GH-draw-demo_01.gif" width="90%">
+<img src="/Images/GH-draw-demo_01.gif" width="50%">
 
 https://youtu.be/W75_HroyJew
 
